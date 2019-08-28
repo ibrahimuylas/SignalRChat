@@ -1,5 +1,4 @@
-# SignalRChat
-<h2>SignalRChat with Javascript</h2>
+# SignalRChat with Javascript
 
 This tutorial teaches the basics of building a real-time app using SignalR.
 <ul>
